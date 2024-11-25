@@ -146,7 +146,7 @@ alias cd="z"
 alias ga="git add ."
 alias gc="git commit -m"
 alias gp="git push -u origin main"
-
+alias gs="git status"
 
 copyclip() {
     if [ -z "$1" ]; then
